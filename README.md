@@ -16,15 +16,19 @@ Work to generate all of the tables and figures for Pymaceuticals' technical repo
 
 ## Graphs:
 This bar graph displays the total number of timepoints for each drug regimen, which relates to how many mice were involved in the study of each.
+
 ![bargraph](/images/TimepointsPerDrugRegimen.png)
 
 This pie graph shows the distribution of mice was nearly even between female and male for the overall study.
+
 ![piegraph](/images/FemaleVsMaleDistributionOfMice.png)
 
 This box plot shows the final tumor volume of each mouse across four regimens of interest, showing our outlier.
+
 ![boxplot](/images/TumorVolumeAcrossRegimens.png)
 
 This scatter plot was used to find our correlation coefficient of 0.84 relating to mouse weight and average tumor volume for the Capomulin regimen.
+
 ![scatterplot](/images/AvgTumorVolComparedToMouseWeight.png)
 
 ## Findings
