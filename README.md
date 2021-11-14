@@ -7,7 +7,6 @@ Work to generate all of the tables and figures for Pymaceuticals' technical repo
 - Jupyter Notebook: pymaceuticals_starter.ipynb
 - HTML: index.html
 
-
 ## Tools Used:
 - Python
 - Jupyter Notebook
