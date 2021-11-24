@@ -2,6 +2,7 @@
 Work to generate all of the tables and figures for Pymaceuticals' technical report using Python Matplotlib. Pymaceuticals is a mock-up of a pharmaceuticals company which specializes in anti-cancer research. The data of Pymaceuticals is meant to represent research screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. The task is to generate all of the tables and figures needed for the technical report of the study.
 
 ## Web Overview of Results availabel at: https://josephmarch.github.io/Pymaceuticals/
+![webpagesample](/images/PymaceuticalsWebPage.png)
 
 ## Code work can be found:
 - Jupyter Notebook: pymaceuticals_starter.ipynb
